@@ -4,7 +4,7 @@ This project demonstrates an issue with Svelte events on Firefox wherein the exp
 
 ## Relevant source
 
-The code demonstrating the issue lives at <./src/routes/index.svelte>
+The code demonstrating the issue lives at [the index route](./src/routes/index.svelte)
 
 ## Running
 
